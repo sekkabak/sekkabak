@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello I'm Czarek 👋
 
-<!--
-**sekkabak/sekkabak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data:
 
-Here are some ideas to get you started:
+```json
+{
+  "firstName": "Cezary",
+  "lastName": "Bąk",
+  "age": 22,
+  "city": "Warsaw",
+  "currentJob": "3th year cybersecurity student at WAT"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open for opensource projects collaboration 😄
+
+If u want to contact me: btoa('±é$i¶¤') + '@gmail.com'
