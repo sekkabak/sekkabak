@@ -1,5 +1,7 @@
 # Hello I'm Czarek 👋
 
+## Checkout my project highlights in my website [sekkabak.github.io](https://sekkabak.github.io/) 🎉🎉🎉
+
 Data:
 
 ```json
