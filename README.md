@@ -8,9 +8,9 @@ Data:
 {
   "firstName": "Cezary",
   "lastName": "Bąk",
-  "age": 23,
+  "age": 24,
   "city": "Warsaw",
-  "currentJob": "3rd year cybersecurity student at WAT"
+  "job": "cybersecurity"
 }
 ```
 
