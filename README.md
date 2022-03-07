@@ -10,7 +10,7 @@ Data:
   "lastName": "Bąk",
   "age": 24,
   "city": "Warsaw",
-  "job": "cybersecurity"
+  "job": "Cybersecurity"
 }
 ```
 
