@@ -18,4 +18,4 @@ I'm always open for opensource projects collaboration 😄
 
 If u want to contact me: btoa('±é$i¶¤') + '@gmail.com'
 
-<script src="https://tryhackme.com/badge/200064"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/sekkabak.png" alt="TryHackMe">
