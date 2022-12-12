@@ -18,5 +18,5 @@ I'm always open for opensource projects collaboration 😄
 
 If u want to contact me: btoa('±é$i¶¤') + '@gmail.com'
 
-[TryHackMe](https://www.hackthebox.com/badge/image/531621)
-[HackTheBox](https://www.hackthebox.com/badge/image/531621)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sekkabak.png)
+![HackTheBox](https://www.hackthebox.com/badge/image/531621)
